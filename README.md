@@ -1,7 +1,7 @@
 local NotificationLibrary = {
     _notifications = {},
     _theme = {
-        background = "rbxassetid://9924336841",
+        background = "rbxassetid://STFU",
         primaryColor = Color3.fromRGB(45, 45, 45),
         successColor = Color3.fromRGB(50, 180, 100),
         errorColor = Color3.fromRGB(220, 80, 80),
